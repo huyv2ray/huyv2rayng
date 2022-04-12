@@ -27,7 +27,7 @@ xʀᴀʏ+ᴠʟᴇꜱꜱ ꜱᴇʀᴠᴇʀ.
 
 
 
-<p><a href="https://dashboard.heroku.com/new?template=https://github.com/huyv2ray/heroku-xray-server"> <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku" /></a></p>
+<p><a href="https://dashboard.heroku.com/new?template=https://github.com/huyv2ray/heroku-xray-server "> <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku" /></a></p>
 
 
  
